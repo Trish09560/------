@@ -1,0 +1,23 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\bhure\Documents\LTspice\Draft5.asc
+Start Time: Fri Oct  4 20:15:02 2024
+Error on line 2 : r1 n002 n001 50 oohm
+	 Unknown parameter "oohm"
+Error on line 3 : r2 0 n002 130 ohm
+	 Unknown parameter "ohm"
+Error on line 4 : r3 n002 n003 100 ohm
+	 Unknown parameter "ohm"
+Error on line 5 : r4 n003 0 110 ohm
+	 Unknown parameter "ohm"
+Error on line 6 : r5 n003 0 120 ohm
+	 Unknown parameter "ohm"
+Error on line 7 : v1 n001 0 200 volts
+	 Unknown parameter "volts"
+solver = Normal
+Maximum thread count: 12
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.166 seconds.
+
